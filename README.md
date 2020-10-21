@@ -27,4 +27,4 @@ Alpine Linux JWM Utilities
 - **background-image.jpg**: Place in $HOME folder.
 - **Copy remaining folders**: `$ sudo cp -r etc/ / && sudo cp -r usr/ /`
 
-![Screenshot Alpine Linux JWM](https://github.com/antonialoytorrens/alpine-linux-jwm/raw/master/screenshots/alpine-linux-jwm.png)
+![Screenshot Alpine Linux JWM](https://github.com/antonialoytorrens/alpine-linux-jwm/raw/master/screenshots/alpine-linux-jwm-2.png)
