@@ -26,3 +26,5 @@ Alpine Linux JWM Utilities
 - **system.jwmrc**: Place in $HOME folder. Then, rename it to .jwmrc
 - **background-image.jpg**: Place in $HOME folder.
 - **Copy remaining folders**: `$ sudo cp -r etc/ / && sudo cp -r usr/ /`
+
+![Screenshot Alpine Linux JWM](https://github.com/antonialoytorrens/alpine-linux-jwm/raw/master/screenshots/alpine-linux-jwm.png)
